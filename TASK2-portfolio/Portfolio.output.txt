@@ -17,12 +17,13 @@ I am currently pursuing ELECTRONICS AND COMMUNICATION Engineering at Aditya Coll
 Skills :
 
 Web Development
-
 Python
-
 Java
+DSA with Java
+HTML
+CSS
+JavaScript
 
-JS
 My Latest Projects
 Web development
 
